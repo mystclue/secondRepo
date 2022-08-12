@@ -1,1 +1,1 @@
-This is some content to learn about branching
+This is bad content added to file4.txt while learning about branching
