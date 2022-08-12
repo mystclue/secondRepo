@@ -1,1 +1,2 @@
 This is some content to learn about branching
+New line added to file4.txt in Master
