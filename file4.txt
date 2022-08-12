@@ -1,2 +1,1 @@
-This is some content to learn about branching
-New line added to file4.txt in Master
+This is bad content added to file4.txt while learning about branching
